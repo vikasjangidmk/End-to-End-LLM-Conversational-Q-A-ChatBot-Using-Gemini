@@ -42,7 +42,7 @@ st.set_page_config(
 )
 
 # Header
-st.title("🤖 ChatGPT Clone")
+st.title("🤖 Gemini LLM ChatBot Application")
 
 # Display chat history
 st.subheader("Chat History")
